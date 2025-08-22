@@ -10,4 +10,5 @@ public class GranmeApplication {
 		SpringApplication.run(GranmeApplication.class, args);
 	}
 
+
 }
