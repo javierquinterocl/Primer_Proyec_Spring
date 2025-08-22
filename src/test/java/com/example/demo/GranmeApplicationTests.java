@@ -8,6 +8,7 @@ class GranmeApplicationTests {
 
 	@Test
 	void contextLoads() {
+		
 	}
 
 }
